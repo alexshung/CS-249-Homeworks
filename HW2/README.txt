@@ -1,0 +1,1 @@
+To run the program, have HW_F.py and the wine.data in the same folder. Run python3 HW_F.py, and you should see the same graphs appear as those listed in the homeworks. Closing the graph windows allows the user to continue running any other process. The graphs appear in the order that the output text saying the timing appears in.
